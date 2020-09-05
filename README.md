@@ -4,12 +4,13 @@
 
 # svelte app
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This is a project template for [Svelte](https://svelte.dev) apps with TailwindCss. It lives at https://github.com/IngoVals/sveltejs.
+It is based on this [article](https://levelup.gitconnected.com/how-to-use-svelte-js-with-tailwind-css-f0554187eca1) by [Glory Katande](https://katendeglory.github.io/)
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit sveltejs/template svelte-app
+npx degit IngoVals/sveltejs svelte-app
 cd svelte-app
 ```
 
